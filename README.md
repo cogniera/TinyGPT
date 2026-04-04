@@ -1,7 +1,7 @@
 # TinyGPT
 
 TinyGPT is a small GPT-style language model trained on the TinyStories dataset using JAX and Flax NNX.
-The project is implemented in the notebook `tinyStoriesGPT.ipynb` and covers the full pipeline:
+The project is implemented in the notebook `miniGPT.ipynb` and covers the full pipeline:
 
 - model architecture
 - data processing
